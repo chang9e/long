@@ -17,3 +17,5 @@
 [Markdown介绍与入门](http://blog.csdn.net/u010565454/article/details/65937558)
 
 [How to Install Typora – A Minimal Markdown Editor in Ubuntu](http://ubuntuhandbook.org/index.php/2016/09/install-typora-minimal-markdown-editor/)
+
+[Ubuntu系统实用软件推荐](http://blog.csdn.net/jesse_mx/article/details/52816928)
