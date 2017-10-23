@@ -9,3 +9,7 @@
 [N卡驱动](http://tieba.baidu.com/p/3559408809)
 
 [Ubuntu常用软件合集](http://www.lzjqsdd.com/2015/03/31/ubuntu-software/)
+
+[在Ubuntu 上有什么必装的实用软件？](https://www.zhihu.com/question/19811112?sort=created)
+
+[Ubuntu好用软件思维导图](https://github.com/FindHao/my_xminds)
