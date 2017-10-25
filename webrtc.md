@@ -6,3 +6,10 @@
 
 [The gstreamer-devel Archives](https://lists.freedesktop.org/archives/gstreamer-devel/)
 
+[用 GStreamer 简化 Linux 多媒体开发](https://www.ibm.com/developerworks/cn/linux/l-gstreamer/)
+
+[理解Gstreamer架构](http://blog.sina.com.cn/s/blog_6a4c492f0100q8wu.html)
+
+
+
+ 
