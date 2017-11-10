@@ -24,6 +24,8 @@
 
 [markdown 一劳永逸的公众号排版方法](https://mp.weixin.qq.com/s/zb-YaacNLggG2-njF5HJ0A)
 
+***
+
 [Typora快捷键](http://blog.csdn.net/it_guang/article/details/53456026)
 
 [Markdown实用技巧－编辑器](http://www.gcssloop.com/markdown/markdown-editor)
@@ -31,4 +33,14 @@
 [Typora学习笔记](http://blog.csdn.net/zhangruishi/article/details/70768923)
 
 [Typora For Markdown 语法](http://www.jianshu.com/p/092de536d948)
+
+[安利一下Typora](http://www.jianshu.com/p/5256ecc06eec)
+
+[Markdown实用技巧－基础语法](https://www.gcssloop.com/markdown/markdown-grammar)
+
+[Typora For Markdown 语法](http://www.jianshu.com/p/092de536d948)
+
+
+
+
 

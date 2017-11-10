@@ -14,7 +14,7 @@ Git的版本库里存了很多东西，其中最重要的就是称为stage（或
 
 第二步是用git commit提交更改，实际上就是把暂存区的所有内容提交到当前分支。
 
-
+test
 
 [Git 常用命令详解（二）](http://blog.csdn.net/ithomer/article/details/7529022)
 
