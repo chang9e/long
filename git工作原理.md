@@ -21,4 +21,4 @@ Git的版本库里存了很多东西，其中最重要的就是称为stage（或
 
 [Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
 
-[Git远程操作详解]()
+[Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
